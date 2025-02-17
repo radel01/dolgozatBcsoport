@@ -14,7 +14,7 @@ public class FemAlakzatokProgram {
 //    }
 //
 //    public FemAlakzatokProgram(ArrayList<FemAlakzat> alakzatok) {
-//        this.alakzatok = alakzatok;
+//        this.alakzatok=alakzatok;
 //    }
 
     public void ujAlakzat(FemAlakzat alakzat) {
