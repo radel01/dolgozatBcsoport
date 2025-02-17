@@ -1,1 +1,1 @@
-##B csoport
+B csoport
